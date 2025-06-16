@@ -1,0 +1,36 @@
+.app {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .buttons {
+    margin: 20px 0;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #5198c1;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #78abc8;
+  }
+  
+  .result {
+    font-size: 24px;
+    font-weight: bold;
+    color: #222;
+  }
+  
